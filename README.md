@@ -4,12 +4,12 @@ Machine learning analysis of IHC H-score biomarkers for predicting Masaoka-Koga 
 
 ## Associated publication
 
-Kitrou et al. "Machine Learning-Based Prediction of Masaoka-Koga Stage and WHO Risk Group in Thymic Epithelial Tumors Using Immunohistochemical H-Score Profiles." MDPI Diagnostics (under review).
+Kitrou et al. "Machine Learning-Based Prediction of Masaoka-Koga Stage and WHO Histological Risk Group in Thymic Epithelial Tu-mors Using Biomarker Combinations" MDPI Diagnostics (under review).
 
 ## Contents
 
-- `Kitrou_Masaoka_Nested_v4.ipynb` — Masaoka-Koga stage prediction analysis
-- `Kitrou_WHO_Nested_v4.ipynb` — WHO histological risk group prediction analysis
+- `Kitrou_Masaoka_Nested_v5.ipynb` — Masaoka-Koga stage prediction analysis
+- `Kitrou_WHO_Nested_v5.ipynb` — WHO histological risk group prediction analysis
 
 ## Requirements
 
